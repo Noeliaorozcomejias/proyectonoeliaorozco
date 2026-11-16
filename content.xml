@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260521104502BS63A5</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260521104502MPGW6H</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>TÍTULO SA: ¡DA VIDA A TU PROPIO ROBOT!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Todo lo necesario para construir tu robot: las herramientas esenciales y un vídeo explicativo que te ayudará a transformar piezas independientes en una auténtica creación tecnológica del futuro.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1794848294774</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpf5lph0-m31oochlu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.¡Comenzamos!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.¡Comenzamos!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.¡Comenzamos!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpf5lph0-m31oochlu</odePageId>
+      <odeBlockId>block-1779348251711-n8fa6dw0m</odeBlockId>
+      <blockName>¡Da vida a tu propio robot!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf5lph0-m31oochlu</odePageId>
+          <odeBlockId>block-1779348251711-n8fa6dw0m</odeBlockId>
+          <odeIdeviceId>idevice-1779348251700-yv29qu20l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p>¡Adentrémonos en el fascinante universo de la robótica y la tecnología!<br />¿Os habéis parado a pensar cómo sería nuestra vida sin teléfonos móviles, ordenadores, videojuegos o robots? En esta aventura os transformaréis en pequeños inventores e inventoras, preparados para descubrir e imaginar cómo será el mundo del mañana.</p>
+<p>A lo largo de esta Situación de Aprendizaje conoceremos la importancia que tienen los avances tecnológicos y la robótica en nuestro día a día. Descubriremos cómo existen robots capaces de colaborar en hospitales, realizar tareas domésticas, facilitar el trabajo de las personas e incluso investigar y viajar por el espacio.</p>
+<p>Pero esta experiencia no consistirá únicamente en descubrir nuevos conocimientos... ¡también tendremos que investigar, reflexionar y sacar nuestro lado más científico!</p>
+<p>Nos plantearemos cuestiones que nos harán pensar:</p>
+<p>¿De qué manera pueden los robots mejorar nuestra vida?<br />¿Podrán las máquinas llegar a realizar el trabajo de las personas?<br />¿Qué cambios traerá la tecnología en los próximos años?<br />Y ahora llega el gran reto... 🎉</p>
+<p>¡Cada grupo tendrá que imaginar, diseñar y crear su propio robot!</p>
+<p>Para conseguirlo, pondremos en práctica diferentes recursos y habilidades:</p>
+<p>Recursos y herramientas digitales.<br />Elementos y materiales reutilizados.<br />Formas geométricas y figuras tridimensionales.<br />Originalidad, imaginación y creatividad.<br />También aprenderemos a buscar soluciones ante diferentes desafíos, pensando y trabajando como auténticos programadores. Para completar nuestro proyecto, elaboraremos una ficha técnica en la que recogeremos las características y el funcionamiento de nuestro invento.</p>
+<p>Cuando terminemos esta aventura, habremos conseguido:</p>
+<p>Conocer mejor los avances tecnológicos que nos rodean.<br />Cooperar y colaborar con nuestros compañeros y compañeras.<br />Imaginar y desarrollar propuestas innovadoras.<br />Aplicar los conocimientos geométricos a una creación real.<br />Comunicar y presentar nuestros proyectos con claridad y seguridad.<br />¿Estáis listos para convertiros en los futuros diseñadores e ingenieros de la robótica?</p>
+<p>¡Preparad vuestras ideas, despertad vuestra imaginación y poneos manos a la obra!</p>
+<p>¡3, 2, 1... comienza nuestra aventura tecnológica! 🚀</p>
+<p> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779348251700-yv29qu20l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p>¡Adentrémonos en el fascinante universo de la robótica y la tecnología!<br />¿Os habéis parado a pensar cómo sería nuestra vida sin teléfonos móviles, ordenadores, videojuegos o robots? En esta aventura os transformaréis en pequeños inventores e inventoras, preparados para descubrir e imaginar cómo será el mundo del mañana.</p>\n<p>A lo largo de esta Situación de Aprendizaje conoceremos la importancia que tienen los avances tecnológicos y la robótica en nuestro día a día. Descubriremos cómo existen robots capaces de colaborar en hospitales, realizar tareas domésticas, facilitar el trabajo de las personas e incluso investigar y viajar por el espacio.</p>\n<p>Pero esta experiencia no consistirá únicamente en descubrir nuevos conocimientos... ¡también tendremos que investigar, reflexionar y sacar nuestro lado más científico!</p>\n<p>Nos plantearemos cuestiones que nos harán pensar:</p>\n<p>¿De qué manera pueden los robots mejorar nuestra vida?<br />¿Podrán las máquinas llegar a realizar el trabajo de las personas?<br />¿Qué cambios traerá la tecnología en los próximos años?<br />Y ahora llega el gran reto... 🎉</p>\n<p>¡Cada grupo tendrá que imaginar, diseñar y crear su propio robot!</p>\n<p>Para conseguirlo, pondremos en práctica diferentes recursos y habilidades:</p>\n<p>Recursos y herramientas digitales.<br />Elementos y materiales reutilizados.<br />Formas geométricas y figuras tridimensionales.<br />Originalidad, imaginación y creatividad.<br />También aprenderemos a buscar soluciones ante diferentes desafíos, pensando y trabajando como auténticos programadores. Para completar nuestro proyecto, elaboraremos una ficha técnica en la que recogeremos las características y el funcionamiento de nuestro invento.</p>\n<p>Cuando terminemos esta aventura, habremos conseguido:</p>\n<p>Conocer mejor los avances tecnológicos que nos rodean.<br />Cooperar y colaborar con nuestros compañeros y compañeras.<br />Imaginar y desarrollar propuestas innovadoras.<br />Aplicar los conocimientos geométricos a una creación real.<br />Comunicar y presentar nuestros proyectos con claridad y seguridad.<br />¿Estáis listos para convertiros en los futuros diseñadores e ingenieros de la robótica?</p>\n<p>¡Preparad vuestras ideas, despertad vuestra imaginación y poneos manos a la obra!</p>\n<p>¡3, 2, 1... comienza nuestra aventura tecnológica! 🚀</p>\n<p> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779347907938-p5g1hr3o4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Guía didáctica.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Guía didáctica.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Guía didáctica.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779347907938-p5g1hr3o4</odePageId>
+      <odeBlockId>block-1779348643557-ajxnc69hx</odeBlockId>
+      <blockName>Datos generales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779347907938-p5g1hr3o4</odePageId>
+          <odeBlockId>block-1779348643557-ajxnc69hx</odeBlockId>
+          <odeIdeviceId>idevice-1779348643551-g9e4xbxfm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título:</strong> ¡Da vida a tu propio robot!<br /></p>
+<p><strong>Nivel:</strong> 5º de Educación Primaria (Tercer ciclo).<br /><strong>Centro de interés:</strong> Los robots y la tecnología en la vida cotidiana.<br /><strong>Duración:</strong> Del 3 al 18 de junio (12 sesiones).<br /><strong>Áreas implicadas:</strong> Conocimiento del Medio, Lengua, Matemáticas y Plástica.<br /><strong>Idioma: </strong>Castellano.<br /></p>
+<p><strong>¿Qué aprenderá el alumnado?</strong><br />-Investigar sobre robots y tecnología.<br />-Reflexionar y debatir sobre el uso de los robots en la sociedad.<br />-Diseñar un robot con herramientas digitales como Tinkercad.<br />-Construir un robot con materiales reciclados.<br />-Iniciarse en el pensamiento computacional y la resolución de problemas.<br />-Crear una ficha técnica para explicar su robot.<br />-Utilizar figuras planas y cuerpos geométricos de forma práctica y creativa.<br /></p>
+<p><strong>Producto final</strong><br />-Diseño digital y construcción real de un robot.<br />-Elaboración de una ficha técnica explicativa.<br /></p>
+<p><strong>Aspectos destacados</strong><br />-Relación con el ODS 9: Industria, innovación e infraestructura.<br />-Desarrollo de competencias matemáticas y tecnológicas.<br />-Trabajo cooperativo y dinámico.<br />-Actividades organizadas en fases: motivación, exploración, aplicación y conclusión.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779348643551-g9e4xbxfm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título:</strong> ¡Da vida a tu propio robot!<br /></p>\n<p><strong>Nivel:</strong> 5º de Educación Primaria (Tercer ciclo).<br /><strong>Centro de interés:</strong> Los robots y la tecnología en la vida cotidiana.<br /><strong>Duración:</strong> Del 3 al 18 de junio (12 sesiones).<br /><strong>Áreas implicadas:</strong> Conocimiento del Medio, Lengua, Matemáticas y Plástica.<br /><strong>Idioma: </strong>Castellano.<br /></p>\n<p><strong>¿Qué aprenderá el alumnado?</strong><br />-Investigar sobre robots y tecnología.<br />-Reflexionar y debatir sobre el uso de los robots en la sociedad.<br />-Diseñar un robot con herramientas digitales como Tinkercad.<br />-Construir un robot con materiales reciclados.<br />-Iniciarse en el pensamiento computacional y la resolución de problemas.<br />-Crear una ficha técnica para explicar su robot.<br />-Utilizar figuras planas y cuerpos geométricos de forma práctica y creativa.<br /></p>\n<p><strong>Producto final</strong><br />-Diseño digital y construcción real de un robot.<br />-Elaboración de una ficha técnica explicativa.<br /></p>\n<p><strong>Aspectos destacados</strong><br />-Relación con el ODS 9: Industria, innovación e infraestructura.<br />-Desarrollo de competencias matemáticas y tecnológicas.<br />-Trabajo cooperativo y dinámico.<br />-Actividades organizadas en fases: motivación, exploración, aplicación y conclusión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779347907938-p5g1hr3o4</odePageId>
+      <odeBlockId>block-1779349075168-vfo343v4d</odeBlockId>
+      <blockName>Relación de tareas con criterios de evaluación.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779347907938-p5g1hr3o4</odePageId>
+          <odeBlockId>block-1779349075168-vfo343v4d</odeBlockId>
+          <odeIdeviceId>idevice-1779349075164-eyt9eka0w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Diseño sin título.jpg" width="1366" height="1932" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779349075164-eyt9eka0w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Diseño sin título.jpg\" width=\"1366\" height=\"1932\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779347918409-6ie14nidc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Contextualización.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Contextualización.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Contextualización.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779347918409-6ie14nidc</odePageId>
+      <odeBlockId>block-1779350029619-fyijcqk5j</odeBlockId>
+      <blockName>Contexto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779347918409-6ie14nidc</odePageId>
+          <odeBlockId>block-1779350029619-fyijcqk5j</odeBlockId>
+          <odeIdeviceId>idevice-1779350029610-pabqfzuac</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje se desarrolla a partir de una propuesta interdisciplinar en la que se trabajan de forma conjunta las diferentes áreas de Educación Primaria, impulsando un aprendizaje conectado, activo y relacionado con la realidad del alumnado. Mediante esta experiencia, los niños y niñas descubrirán el ámbito de la ciencia, la tecnología y la robótica a través de un proyecto práctico y atractivo. Como resultado final, deberán diseñar un robot utilizando la herramienta digital Tinkercad, construirlo empleando materiales reciclados y elaborar una ficha técnica donde expliquen sus principales características y funcionamiento.</p>
+<p>Esta propuesta destaca por su contribución al desarrollo de los elementos curriculares establecidos en el artículo 3 del Decreto 101/2023, haciendo especial hincapié en los aspectos vinculados con la ciencia, la tecnología y la búsqueda de soluciones ante diferentes problemas. Además, guarda una estrecha relación con el Objetivo de Desarrollo Sostenible 9 (ODS 9): Industria, innovación e infraestructura, ya que pretende estimular la imaginación, la capacidad innovadora y el pensamiento crítico del alumnado frente a los continuos cambios tecnológicos de nuestro entorno.</p>
+<p>Por otra parte, esta Situación de Aprendizaje favorece el cumplimiento de uno de los objetivos de etapa, concretamente el relacionado con el desarrollo de las habilidades matemáticas fundamentales y el acercamiento a métodos de resolución de problemas aplicados a situaciones cotidianas y próximas a la experiencia del alumnado.</p>
+<p>Con el propósito de desarrollar las competencias específicas de las distintas áreas que participan en esta propuesta, se realizarán diferentes actividades y tareas distribuidas en las fases contempladas en Séneca: motivación, activación, exploración, estructuración, aplicación y conclusión. Durante su desarrollo se utilizarán diversos materiales, herramientas tecnológicas y modalidades de agrupamiento, promoviendo la colaboración entre iguales y la capacidad de trabajar de manera independiente.</p>
+<p>Asimismo, la intervención docente se ajustará a cada momento del proceso educativo, desempeñando una función de orientación, apoyo y mediación para facilitar la participación activa y el aprendizaje de todo el alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779350029610-pabqfzuac","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje se desarrolla a partir de una propuesta interdisciplinar en la que se trabajan de forma conjunta las diferentes áreas de Educación Primaria, impulsando un aprendizaje conectado, activo y relacionado con la realidad del alumnado. Mediante esta experiencia, los niños y niñas descubrirán el ámbito de la ciencia, la tecnología y la robótica a través de un proyecto práctico y atractivo. Como resultado final, deberán diseñar un robot utilizando la herramienta digital Tinkercad, construirlo empleando materiales reciclados y elaborar una ficha técnica donde expliquen sus principales características y funcionamiento.</p>\n<p>Esta propuesta destaca por su contribución al desarrollo de los elementos curriculares establecidos en el artículo 3 del Decreto 101/2023, haciendo especial hincapié en los aspectos vinculados con la ciencia, la tecnología y la búsqueda de soluciones ante diferentes problemas. Además, guarda una estrecha relación con el Objetivo de Desarrollo Sostenible 9 (ODS 9): Industria, innovación e infraestructura, ya que pretende estimular la imaginación, la capacidad innovadora y el pensamiento crítico del alumnado frente a los continuos cambios tecnológicos de nuestro entorno.</p>\n<p>Por otra parte, esta Situación de Aprendizaje favorece el cumplimiento de uno de los objetivos de etapa, concretamente el relacionado con el desarrollo de las habilidades matemáticas fundamentales y el acercamiento a métodos de resolución de problemas aplicados a situaciones cotidianas y próximas a la experiencia del alumnado.</p>\n<p>Con el propósito de desarrollar las competencias específicas de las distintas áreas que participan en esta propuesta, se realizarán diferentes actividades y tareas distribuidas en las fases contempladas en Séneca: motivación, activación, exploración, estructuración, aplicación y conclusión. Durante su desarrollo se utilizarán diversos materiales, herramientas tecnológicas y modalidades de agrupamiento, promoviendo la colaboración entre iguales y la capacidad de trabajar de manera independiente.</p>\n<p>Asimismo, la intervención docente se ajustará a cada momento del proceso educativo, desempeñando una función de orientación, apoyo y mediación para facilitar la participación activa y el aprendizaje de todo el alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779347934337-08un3hf31</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Objetivos y competencias. </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Objetivos y competencias. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Objetivos y competencias. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779347934337-08un3hf31</odePageId>
+      <odeBlockId>block-1779350301636-w3ou0nhfx</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779347934337-08un3hf31</odePageId>
+          <odeBlockId>block-1779350301636-w3ou0nhfx</odeBlockId>
+          <odeIdeviceId>idevice-1779350301625-d1srsv297</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Objetivos: </strong></p>
+<p>- Comprender cómo ha evolucionado la tecnología y la robótica a lo largo del tiempo, reconociendo su utilidad y aplicación en nuestro entorno cotidiano.<br />- Favorecer una actitud crítica ante la presencia de la tecnología y los robots en la sociedad, desarrollando actividades de búsqueda de información, reflexión y puesta en común de ideas.<br />- Crear y construir un modelo de robot propio mediante herramientas tecnológicas, como Tinkercad, y el aprovechamiento de materiales reutilizables, impulsando la imaginación y el respeto por el medioambiente.<br />- Iniciarse en el desarrollo del pensamiento computacional, poniendo en práctica estrategias para afrontar y solucionar diferentes retos.<br />- Aprender a manejar herramientas y plataformas digitales para localizar información, elaborar diseños y compartir los resultados obtenidos.<br />- Realizar una ficha técnica que recoja de manera ordenada la descripción, las características y las utilidades del robot creado.<br />- Reconocer, seleccionar y aplicar diferentes figuras geométricas planas y cuerpos tridimensionales en el proceso de diseño y elaboración del robot.<br />- Poner en práctica los conocimientos y destrezas matemáticas en situaciones cercanas y relacionadas con la vida real.<br />- Impulsar la colaboración entre compañeros y compañeras, la implicación en las actividades grupales y la valoración de las opiniones de los demás.<br />- Estimular la imaginación, la iniciativa personal, la independencia y la organización de tareas a lo largo de todo el proyecto.</p>
+<p><strong>Competencias clave y descriptores operativos: </strong></p>
+<p>CCL (CCL1, CCL2 y CCL4)</p>
+<p>STEM (STEM1, STEM2, STEM3 y STEM4)</p>
+<p>CD (CD1, CD2 y CD3)</p>
+<p>CPSAA (CPSAA3)</p>
+<p>CC (CC4)</p>
+<p>CE (CE1 y CE3)</p>
+<p>CCEC (CCEC3 y CCEC4).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779350301625-d1srsv297","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Objetivos: </strong></p>\n<p>- Comprender cómo ha evolucionado la tecnología y la robótica a lo largo del tiempo, reconociendo su utilidad y aplicación en nuestro entorno cotidiano.<br />- Favorecer una actitud crítica ante la presencia de la tecnología y los robots en la sociedad, desarrollando actividades de búsqueda de información, reflexión y puesta en común de ideas.<br />- Crear y construir un modelo de robot propio mediante herramientas tecnológicas, como Tinkercad, y el aprovechamiento de materiales reutilizables, impulsando la imaginación y el respeto por el medioambiente.<br />- Iniciarse en el desarrollo del pensamiento computacional, poniendo en práctica estrategias para afrontar y solucionar diferentes retos.<br />- Aprender a manejar herramientas y plataformas digitales para localizar información, elaborar diseños y compartir los resultados obtenidos.<br />- Realizar una ficha técnica que recoja de manera ordenada la descripción, las características y las utilidades del robot creado.<br />- Reconocer, seleccionar y aplicar diferentes figuras geométricas planas y cuerpos tridimensionales en el proceso de diseño y elaboración del robot.<br />- Poner en práctica los conocimientos y destrezas matemáticas en situaciones cercanas y relacionadas con la vida real.<br />- Impulsar la colaboración entre compañeros y compañeras, la implicación en las actividades grupales y la valoración de las opiniones de los demás.<br />- Estimular la imaginación, la iniciativa personal, la independencia y la organización de tareas a lo largo de todo el proyecto.</p>\n<p><strong>Competencias clave y descriptores operativos: </strong></p>\n<p>CCL (CCL1, CCL2 y CCL4)</p>\n<p>STEM (STEM1, STEM2, STEM3 y STEM4)</p>\n<p>CD (CD1, CD2 y CD3)</p>\n<p>CPSAA (CPSAA3)</p>\n<p>CC (CC4)</p>\n<p>CE (CE1 y CE3)</p>\n<p>CCEC (CCEC3 y CCEC4).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779347949859-ohkyaa8wd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779347949859-ohkyaa8wd</odePageId>
+      <odeBlockId>block-mw96njox-olby20yhk</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779347949859-ohkyaa8wd</odePageId>
+          <odeBlockId>block-mw96njox-olby20yhk</odeBlockId>
+          <odeIdeviceId>idevice-1794224016752-3o7mkfvqb</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1794224016752-3o7mkfvqb" title="" href="{{context_path}}/content/resources/¡DA VIDA A TU PROPIO ROBOT!_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/¡DA VIDA A TU PROPIO ROBOT!_page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794224016752-3o7mkfvqb","img_0":{"img":"{{context_path}}/content/resources/¡DA VIDA A TU PROPIO ROBOT!_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/¡DA VIDA A TU PROPIO ROBOT!_page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779347968721-dvqb734zp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Recursos y materiales.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Recursos y materiales.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Recursos y materiales.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779347968721-dvqb734zp</odePageId>
+      <odeBlockId>block-1779351608569-iytnqmfd9</odeBlockId>
+      <blockName>Recursos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779347968721-dvqb734zp</odePageId>
+          <odeBlockId>block-1779351608569-iytnqmfd9</odeBlockId>
+          <odeIdeviceId>idevice-1779351608562-fzrzp1r8a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Recursos digitales: </strong></p>
+<p><strong>- Canva.</strong></p>
+<p><strong title="">- Padlet.</strong></p>
+<p><strong title="">- Symbaloo.</strong></p>
+<p><strong>- Tinkercad.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779351608562-fzrzp1r8a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Recursos digitales: </strong></p>\n<p><strong>- Canva.</strong></p>\n<p><strong title=\"\">- Padlet.</strong></p>\n<p><strong title=\"\">- Symbaloo.</strong></p>\n<p><strong>- Tinkercad.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779347968721-dvqb734zp</odePageId>
+      <odeBlockId>block-1779352471022-9lcbsu5j2</odeBlockId>
+      <blockName>Licencias y seguridad.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779347968721-dvqb734zp</odePageId>
+          <odeBlockId>block-1779352471022-9lcbsu5j2</odeBlockId>
+          <odeIdeviceId>idevice-1779352471016-q69jw82gh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0_1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779352471016-q69jw82gh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0_1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779347988159-fegfszin1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Instrumentos de evaluación.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779347988159-fegfszin1</odePageId>
+      <odeBlockId>block-1779352029076-jlqz8guni</odeBlockId>
+      <blockName>Evaluación e instrumentos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779347988159-fegfszin1</odePageId>
+          <odeBlockId>block-1779352029076-jlqz8guni</odeBlockId>
+          <odeIdeviceId>idevice-1779352029068-rlc5q90p1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>- Se llevará a cabo un seguimiento y una valoración permanente del aprendizaje a lo largo de todas las sesiones.<br />- Todos los criterios de evaluación contarán con la misma ponderación en la nota final.<br />- Se emplearán rúbricas de evaluación que contemplen cinco niveles de desempeño: insuficiente, suficiente, bien, notable y sobresaliente.<br />- Se tendrá en cuenta el grado de adquisición y progreso de las competencias específicas trabajadas durante el proyecto.<br />- Se realizará una reflexión sobre la práctica docente y el desarrollo de la propia Situación de Aprendizaje mediante instrumentos como listas de verificación y cuestionarios dirigidos al alumnado.</p>
+<p>A modo de ejemplo: </p>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip4.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779352029068-rlc5q90p1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>- Se llevará a cabo un seguimiento y una valoración permanente del aprendizaje a lo largo de todas las sesiones.<br />- Todos los criterios de evaluación contarán con la misma ponderación en la nota final.<br />- Se emplearán rúbricas de evaluación que contemplen cinco niveles de desempeño: insuficiente, suficiente, bien, notable y sobresaliente.<br />- Se tendrá en cuenta el grado de adquisición y progreso de las competencias específicas trabajadas durante el proyecto.<br />- Se realizará una reflexión sobre la práctica docente y el desarrollo de la propia Situación de Aprendizaje mediante instrumentos como listas de verificación y cuestionarios dirigidos al alumnado.</p>\n<p>A modo de ejemplo: </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip4.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779348000683-ad2box4r4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos y licencias. </pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos y licencias. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos y licencias. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779348000683-ad2box4r4</odePageId>
+      <odeBlockId>block-1779352178825-zpfrq7n6t</odeBlockId>
+      <blockName>Créditos y licencias.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779348000683-ad2box4r4</odePageId>
+          <odeBlockId>block-1779352178825-zpfrq7n6t</odeBlockId>
+          <odeIdeviceId>idevice-1779352178816-1wo9gt9e1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autora: </strong>Noelia Orozco Mejías.</p>
+<p><strong>Situación de Aprendizaje: </strong>“¡Da vida a tu propio robot!”.</p>
+<p>Material educativo dirigido al alumnado de 5º de Educación Primaria, elaborado con fines didácticos y educativos.</p>
+<p>Recursos basados en metodologías activas, trabajo cooperativo, pensamiento computacional y aprendizaje competencial.</p>
+<p><strong>Licencia: </strong></p>
+<p>Este recurso se comparte bajo licencia Creative Commons BY-NC-SA 4.0.</p>
+<p><strong>Archivo editable: </strong></p>
+<p><strong></strong></p>
+<p><strong><img src="{{context_path}}/content/resources/mceclip0_1.png" /></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779352178816-1wo9gt9e1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autora: </strong>Noelia Orozco Mejías.</p>\n<p><strong>Situación de Aprendizaje: </strong>“¡Da vida a tu propio robot!”.</p>\n<p>Material educativo dirigido al alumnado de 5º de Educación Primaria, elaborado con fines didácticos y educativos.</p>\n<p>Recursos basados en metodologías activas, trabajo cooperativo, pensamiento computacional y aprendizaje competencial.</p>\n<p><strong>Licencia: </strong></p>\n<p>Este recurso se comparte bajo licencia Creative Commons BY-NC-SA 4.0.</p>\n<p><strong>Archivo editable: </strong></p>\n<p><strong></strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/mceclip0_1.png\" /></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
